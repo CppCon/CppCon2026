@@ -98,3 +98,18 @@ and code from [CppCon 2026](https://cppcon.org).
 
 - [operator<>](/Lightning%20Talks/operator.pdf) by Ben Deane
 - [Much Ado About Null](/Lightning%20Talks/Much_Ado_About_Null.pdf) by Keith Stockdale
+
+## Posters
+
+- [Accelerating Quantitative Feature Engineering - A C++20/pybind11 Extension for a Python-Based Trading Research Platform](/Posters/Accelerating_Quantitative_Feature_Engineering.pdf) by Adit Jigneshbhai Shah
+- [Can a Local LLM Beat -O3? A Small Experiment in C++ and LLVM IR Optimization](/Posters/Can_a_Local_LLM_Beat_O3.pdf) by Tijl Vercaemer
+- How Modern Is LLM-Generated C++? An Empirical Evaluation of Modern C++ Coding Practices by Swetha Govindaiah 
+   - [Main Poster](/Posters/How_Modern_Is_LLM-Generated_Cpp.pdf)
+   - [Extension](/Posters/How_Modern_Is_LLM-Generated_Cpp_Extension.pdf)
+- [MiniTask: Designing and Evaluating a Modern C++20 Concurrent Task Runtime](/Posters/MiniTask.pdf) by Darsh Rank
+- Raiden: Fail-Safe Interprocess Architecture for Large-Scale Desktop Applications by Tarun Beri, Anurag Jain, Kausik Naguri, Shyam Poovaiah & Prateek Soni
+   - [Poster](/Posters/Raiden.pdf)
+   - [Slides](/Posters/The_Fastest_IPC_You're_Afraid_to_Use.pdf)
+- [rjk+:duck - Beautiful Type Erasure with C++26 Reflection](/Posters/rjk_duck.pdf) by Ryan Keane
+- [Same Bits, All The Mips](/Posters/Same_Bits_All_The_Mips.pdf) by Andrew Drakeford
+- [Wait, Spin, or Sleep? Tail-Latency and CPU Trade-offs in C++20 Queue Waiting](/Posters/Wait_Spin_or_Sleep.pdf) by Atharv Bhatt

@@ -19,6 +19,7 @@ and code from [CppCon 2026](https://cppcon.org).
 - [Towards a complete contract-assertion facility for C++](/Presentations/Towards_a_Complete_Contract-Assertion_Facility_for_Cpp.pdf) by Timur Doumler
 - [Component based or monolithic development for large C and C++ projects: Why not both?](https://github.com/memsharded/cppcon26/blob/master/CppCon2026_slides.pdf) by Diego Rodriguez-Losada Gonzalez
 - [Beyond the Scheduler: Designing Predictable Embedded Systems in Modern C++](/Presentations/Beyond_the_Scheduler.pdf) by Elbert Dockery
+- [Back to Basics: Templates](https://www.laurentcarlier.com/b2b-template-cppcon-2026/) by Laurent Carlier
 - [Pointers to Power: Navigating Organizational Influence](https://docs.brontosource.dev/presentations/2026/cppcon/pointers-to-power/1) by Matt Kulukundis
 - [The Latency Slippage: Understanding the Hidden Costs of Caching for Low Latency C++](/Presentations/The_Latency_Slippage.pdf) by Sanchit Gupta
 - [std::simd Without Compromise: SIMD in C++26 and Beyond, as Fast as Silicon Allows](/Presentations/std_simd_Without_Compromise.pdf) by Ruslan Arutyunyan, Daniel Towner
@@ -37,6 +38,7 @@ and code from [CppCon 2026](https://cppcon.org).
 - [Inside a Small Game Engine: An Architecture Tour in Modern C++](/Presentations/Inside_a_Small_Engine_Architecture.pdf) by Elias Farhan
 - [Using Modules in a Real Project](/Presentations/Using_Modules_in_a_Real_Project.pdf) by Erez Strauss
 - [What Are We Synchronizing?](/Presentations/What_Are_We_Synchronizing.pdf) by Robert Leahy
+- [Back to Basics: Loops in C++](/Presentations/Back_To_Basics_Loops_In_Cpp.pdf) by Nicolai Josuttis
 - [Lock-Free Timer Scheduling With C++ Atomics](/Presentations/Lock-Free_Timer_Scheduling_With_Cpp_Atomics.pdf) by Maxim Gurschi
 - [Hacking and Securing C++](/Presentations/Hacking_and_Securing_Cpp.pdf) by Marcell Juhasz
 - [Compile-Time Polymorphism for Runtime-Flexible Systems: Lessons from OpenJDK](/Presentations/Compile_Time_Polymorphism_for_Runtime_Flexibility.pdf) by Shubhankar Gambhir
@@ -51,15 +53,19 @@ and code from [CppCon 2026](https://cppcon.org).
 - [How C++26 changes the way we write code](/Presentations/How_Cpp26_Changes_the_Way_We_Write_Code.pdf) by Timur Doumler
 - [Rule of 0,1,2,5,6,7,8,9,10?](/Presentations/Rule_of_0_1_2_5_6_7_8_9_10.pdf) by Jason Turner
 - [Refactoring Techniques and Strategies (a Tale in Three Acts)](/Presentations/Refactoring_Techniques_and_Strategies.pdf) by Dave Steffen
+- [The Ghost in the Heap: Defeating a Memory Thief](/Presentations/The_Ghost_in_the_Heap.pdf) by Nicolas Arroyo
+- [Turbocharging Native Code Performance: Compiler Optimizations, Profile-guided Optimizations, and Beyond](/Presentations/Turbocharging_Native_Code_Performance.pdf) by Eric Brumer
 - [Automatic Splitting of Translation Units: Compiler-Agnostic Compiler Frontend Parallelization](/Presentations/https://htmlpreview.github.io/?https://github.com/daminetreg/splitter/blob/main/slides.html) by Damien Buhl
 - [Back to Basics: Memory Alignment](/Presentations/Back_To_Basics_Memory_Alignment.pdf) by Sarthak Sehgal
 - [You Shall Not Pass*!](/Presentations/You_Shall_Not_Pass.pdf) by Daniel Pfeifer
+- [C++ Views and Pipelines](/Presentations/Cpp_Views_and_Pipelines.pdf) by Nicolai Josuttis
 - [Readable Async Workflows in Modern C++: Coroutines Meet std::expected](/Presentations/Readable_Async_Workflows_in_Modern_Cpp.pdf) by Futong Liu
 - [Modern C++ Techniques to Reduce Boilerplate Without Sacrificing Performance](/Presentations/Modern_Cpp_Techniques_to_Reduce_Boilerplate_Without_Sacrificing_Performance.pptx) by VISHNU G NATH
 - [Processor Design and C++ Memory Models](/Presentations/Processor_Design_and_Cpp_Memory_Models.pptx) by Ofek Shilon
 - [My DAG Ate All My Cores: Identifying and Resolving Build Graph Bottlenecks](/Presentations/My_DAG_Ate_All_My_Cores.pdf) by Florent Castelli
 - [Prioritizing Pretty-printers](https://ganets.ky/slides/2026/cppcon/) by Braden Ganetsky
 - [The Clocks of C++: Knowing When (and Why) to Use Each One](/Presentations/The_Clocks_of_Cpp.pdf) by Sandor Dargo
+- [Graphics Programming with SDL 3 Part 2](https://docs.google.com/presentation/d/1Bqd1h7J2C14z4aDSvRr358dpFuly-F-BQOJDoZmPsg4/edit?usp=sharing) by Mike Shah
 - [Writing Low-Latency C++: Predictability, Cache, and the Architectures Underneath](/Presentations/Writing_Low_Latency_Cpp.pdf) by Sampad Acharya
 - [Beyond Monads: Pattern Matching Alternatives for Result Types](/Presentations/Beyond_Monads.pdf) by Vitaly Fanaskov
 - [Building C++20 Modules: The Rest of the Story](/Presentations/Building_Cpp20_Modules.pdf) by Vito Gamberini
@@ -72,19 +78,25 @@ and code from [CppCon 2026](https://cppcon.org).
 - [MrDocs: Reliable Reference Documentation for C++ Using the Clang AST](/Presentations/MrDocs.pdf) by Alan de Freitas
 - [What Is Your Algorithmic Core?](/Presentations/What_is_Your_Algorithmic_Core.pdf) by Egor Suvorov
 - [Ranges Without Compromises: Designing for Simplicity, Performance, and Composability](/Presentations/Ranges_Without_Compromises.pdf) by Oleksandr Bacherikov
-- [The Biggest Misconception of Computer Science](/Presentations/The_Greatest_Misconception_in_Computer_Science.pdf) by Alex Dathskovsky
+- [The C++ Safety Issues Your Tools Can't See](/Presentations/The_Cpp_Safety_Issues_Your_Tools_Cant_See.pptx) by Ion Todirel
+- [The Biggest Misconception of Computer Science](/Presentations/The_Biggest_Misconception_in_Computer_Science.pdf) by Alex Dathskovsky
+- [Leveraging LLM to Generate Unittests for Notifiers in Taskflow](/Presentations/Leveraging_LLM_to_Generate_Unittests_for_Notifiers_in_Taskflow.pdf) by Snikitha Siddavatam
 - [Writing High Performance Parsers Using State Machines](/Presentations/Writing_High_Performance_Parsers_Using_State_Machines.pdf) by Torben Thaysen
 - [A Duck Does More Than Quack: Synthesizing VTables with C++26 Reflection](/Presentations/A_Duck_Does_More_Than_Quack.pptx) by Ryan Keane
+- [Back to Basics: Computer Systems](https://docs.google.com/presentation/d/1Bqd1h7J2C14z4aDSvRr358dpFuly-F-BQOJDoZmPsg4/edit?usp=sharing) by Mike Shah
+- [Who Is #include-ing You? Measuring the Impact of C++ Libraries](/Presentations/Who_Is_include-ing_You.pdf) by John Parent
 - [Extending Google Test for Statistical Benchmarking, CUDA Profiling, and CI Performance Regression](Extending_Google_Test_for_Statistical_Benchmarking_CUDA_Profiling_and_CI_Performance_Regression.pdf) by Kevin Gomez
 - [API Design is Language Design: Lessons from Go's net/http library for C++](https://cppcon2026talk.kompiler.org/) by Tim van Deurzen
 - [“If You Can’t Measure It, You Can’t Improve It”: From Profiling to Automatic Benchmarking](https://kris-jusiak.github.io/talks/cppcon-2026) by Kris Jusiak
 - [CMake: Making Hard Things Easy](/Presentations/CMake.pdf) by Bill Hoffman
+- [Safety in Numbers](/Presentations/Safety_In_Numbers.pdf) by Jason Turner
 - [Back to Basics: Text Formatting](/Presentations/Back_To_Basics_Text_Formatting.pdf) by Ben Saks
 - [What can C++26 reflection do for you?: A practical experiment in using reflection with an emphasis on binary protocol support](/Presentations/What_Can_Cpp26_Reflection_Do_For_You.pdf) by Andy Webber
 - [Mock Any Function in C++ Without Changing a Single Line of Code](/Presentations/Mock_Any_Function_in_Cpp_Without_Changing_a_Single_Line_of_Code.pdf) by Ruifeng Zhang, Brian Rudo-Hutt, Ilya Ermakov
 - [Senders, Receivers, and Robots: Structured Concurrency for Autonomous Navigation](/Presentations/Senders_Receivers_and_Robots.pdf) by Nahuel Espinosa
 - [IEEE 754 Decimals for C++: The Boost.Decimal Library](/Presentations/IEEE_754_Decimals_for_Cpp.pdf) by Matt Borland
 - [Memory Safety on a Microcontroller: What Embedded C++ Teams Can Actually Do Today](/Presentations/Memory_Safety_on_a_Microcontroller.pdf) by Darijo Topic
+- [Thinking Low Level, Writing High Level](/Presentations/Thinking_Low_Level_Writing_High_Level.pdf) by Ignas Bagdonas
 - [Code You Didn't Write: Understanding Large and Unfamiliar Codebases](/Presentations/Code_You_Didn't_Write.pdf) by Mike Shah, Chris Croft-White
 - [The Real Story of C++26: Beyond the Headline Features](/Presentations/The_Real_Story_of_Cpp26.pdf) by Sandor Dargo
 - [Implementing Async RAII](/Presentations/Implementing_Async_RAII.pdf) by Robert Leahy
@@ -113,3 +125,4 @@ and code from [CppCon 2026](https://cppcon.org).
 - [rjk+:duck - Beautiful Type Erasure with C++26 Reflection](/Posters/rjk_duck.pdf) by Ryan Keane
 - [Same Bits, All The Mips](/Posters/Same_Bits_All_The_Mips.pdf) by Andrew Drakeford
 - [Wait, Spin, or Sleep? Tail-Latency and CPU Trade-offs in C++20 Queue Waiting](/Posters/Wait_Spin_or_Sleep.pdf) by Atharv Bhatt
+- [How Far Up Should the C++ Go?](/Posters/How_Far_Up_Should_the_Cpp_Go.pdf) by Dao Hunyh

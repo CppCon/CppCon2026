@@ -110,6 +110,7 @@ and code from [CppCon 2026](https://cppcon.org).
 
 - [operator<>](/Lightning%20Talks/operator.pdf) by Ben Deane
 - [Much Ado About Null](/Lightning%20Talks/Much_Ado_About_Null.pdf) by Keith Stockdale
+- [The_Fastest_IPC_You're_Afraid_to_Use](/Lightning%20Talks/The_Fastest_IPC_You're_Afraid_to_Use.pdf)
 
 ## Posters
 
@@ -119,9 +120,7 @@ and code from [CppCon 2026](https://cppcon.org).
    - [Main Poster](/Posters/How_Modern_Is_LLM-Generated_Cpp.pdf)
    - [Extension](/Posters/How_Modern_Is_LLM-Generated_Cpp_Extension.pdf)
 - [MiniTask: Designing and Evaluating a Modern C++20 Concurrent Task Runtime](/Posters/MiniTask.pdf) by Darsh Rank
-- Raiden: Fail-Safe Interprocess Architecture for Large-Scale Desktop Applications by Tarun Beri, Anurag Jain, Kausik Naguri, Shyam Poovaiah & Prateek Soni
-   - [Poster](/Posters/Raiden.pdf)
-   - [Slides](/Posters/The_Fastest_IPC_You're_Afraid_to_Use.pdf)
+- [Raiden: Fail-Safe Interprocess Architecture for Large-Scale Desktop Applications](/Posters/Raiden.pdf) by Tarun Beri, Anurag Jain, Kausik Naguri, Shyam Poovaiah & Prateek Soni
 - [rjk+:duck - Beautiful Type Erasure with C++26 Reflection](/Posters/rjk_duck.pdf) by Ryan Keane
 - [Same Bits, All The Mips](/Posters/Same_Bits_All_The_Mips.pdf) by Andrew Drakeford
 - [Wait, Spin, or Sleep? Tail-Latency and CPU Trade-offs in C++20 Queue Waiting](/Posters/Wait_Spin_or_Sleep.pdf) by Atharv Bhatt

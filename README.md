@@ -40,10 +40,14 @@ and code from [CppCon 2026](https://cppcon.org).
 - [What Are We Synchronizing?](/Presentations/What_Are_We_Synchronizing.pdf) by Robert Leahy
 - [Back to Basics: Loops in C++](/Presentations/Back_To_Basics_Loops_In_Cpp.pdf) by Nicolai Josuttis
 - [Lock-Free Timer Scheduling With C++ Atomics](/Presentations/Lock-Free_Timer_Scheduling_With_Cpp_Atomics.pdf) by Maxim Gurschi
+- [C++ in an AI World](/Presentations/Cpp_in_an_AI_World.pdf) by Jody Hagins
 - [Hacking and Securing C++](/Presentations/Hacking_and_Securing_Cpp.pdf) by Marcell Juhasz
+- [C++ Core Guidelines Enforcement in Practice](/Presentations/Cpp_Core_Guidelines_Enforcement_in_Practice.pdf) by Paul Jansen
+- [Good boss, bad boss: how to be a good manager, and how to manage a bad one.](/Presentations/Good_boss_bad_boss.odp) by Greg Law
 - [Compile-Time Polymorphism for Runtime-Flexible Systems: Lessons from OpenJDK](/Presentations/Compile_Time_Polymorphism_for_Runtime_Flexibility.pdf) by Shubhankar Gambhir
 - [Ensuring Code Quality in the Age of AI : More Code, Less Engineering!](/Presentations/Ensuring_Code_Quality_In_Age_Of_AI.pdf) by Peter Muldoon
 - [Back to Basics: std::unordered_map](/Presentations/Back_To_Basics_Mastering_Unordered_Map.pdf) by Kevin Carpenter
+- [From User to Contributor: Fixing Bugs and Adding Features in Clang](/Presentations/From_User_to_Contributor.pdf) by Matheus Izvekov
 - [Practical HPC — Forcing the Compiler's Hand with Modern C++](https://diamondinoia.com/cppcon26/) by Marco Barbone
 - [Using Type Erasure to Extend APIs You Don't Own: A Case Study From Audio Plugin Development](/Presentations/Using_Type_Erasure_to_Extend_APIs_you_Don't_Own.pdf) by Jan Wilczek
 - [Awaiters and Awaitables](/Presentations/Awaiters_and_Awaitables.pdf) by Mateusz Pusz
@@ -73,7 +77,9 @@ and code from [CppCon 2026](https://cppcon.org).
 - [Tying up Loose Threads: Making Your Project No-GIL Ready](/Presentations/Tying_Up_Loose_Threads.pptx) by Charlie Lin
 - [[[musttail]]-ling Our Way to a Faster Python Interpreter and New JIT Compiler](/Presentations/[[musttail]]-ling_Our_Way_to_a_Faster_Python_Interpreter_and_New_JIT_Compiler.pdf) by Ken Jin Ooi
 - [The Address is Not The Place: Object Residency in C++26](/Presentations/The_Address_Is_Not_The_Place.pdf) by Laurie Kirk
+- Back to Basics: Containers  [Part 1](/Presentations/Back_To_Basics_Containers_Part_One.pdf) & [Part 2](/Presentations/Back_To_Basics_Containers_Part_Two.pdf by Alan Talbot
 - [When Zero-Cost Abstractions Aren’t Zero-Cost](/Presentations/When_Zero_Cost_Abstractions_Aren't_Zero_Cost.pdf) by Steve Sorkin
+- [Generating Language Bindings using C++ Reflection](/Presentations/Generating_Language_Bindings_using_Cpp_Reflection.pdf) by Callum Piper
 - [Type Punning: the joke is on you, pun intended. Fixing UB of reinterpret_cast!](/Presentations/Type_Punning.pdf) by Lieven de Cock
 - [MrDocs: Reliable Reference Documentation for C++ Using the Clang AST](/Presentations/MrDocs.pdf) by Alan de Freitas
 - [What Is Your Algorithmic Core?](/Presentations/What_is_Your_Algorithmic_Core.pdf) by Egor Suvorov

@@ -59,7 +59,7 @@ and code from [CppCon 2026](https://cppcon.org).
 - [Refactoring Techniques and Strategies (a Tale in Three Acts)](/Presentations/Refactoring_Techniques_and_Strategies.pdf) by Dave Steffen
 - [The Ghost in the Heap: Defeating a Memory Thief](/Presentations/The_Ghost_in_the_Heap.pdf) by Nicolas Arroyo
 - [Turbocharging Native Code Performance: Compiler Optimizations, Profile-guided Optimizations, and Beyond](/Presentations/Turbocharging_Native_Code_Performance.pdf) by Eric Brumer
-- [Automatic Splitting of Translation Units: Compiler-Agnostic Compiler Frontend Parallelization](/Presentations/https://htmlpreview.github.io/?https://github.com/daminetreg/splitter/blob/main/slides.html) by Damien Buhl
+- [Automatic Splitting of Translation Units: Compiler-Agnostic Compiler Frontend Parallelization](https://htmlpreview.github.io/?https://github.com/daminetreg/splitter/blob/main/slides.html) by Damien Buhl
 - [Back to Basics: Memory Alignment](/Presentations/Back_To_Basics_Memory_Alignment.pdf) by Sarthak Sehgal
 - [You Shall Not Pass*!](/Presentations/You_Shall_Not_Pass.pdf) by Daniel Pfeifer
 - [C++ Views and Pipelines](/Presentations/Cpp_Views_and_Pipelines.pdf) by Nicolai Josuttis
